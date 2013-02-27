@@ -1,6 +1,8 @@
-Brunch with Brunch
-==================
+brunch-with-cantaloupe
+======================
 
-This is as minimal of a project as possible with brunch. It includes only
-javascript, css, and optimization plugins. The rest is left up to you.
+basic brunch with file structure but no bells or whistles
 
+a brunch skeleton for use with http://brunch.io 
+
+adapted from brunch-with-brunch https://github.com/monokrome/brunch-with-brunch
